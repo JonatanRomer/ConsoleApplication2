@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+        Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Test af Git Branch");
         }
     }
